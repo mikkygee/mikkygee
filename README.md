@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mikkygee
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning Html,CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Oghenekevwe
+- 👀 I’m interested in Frontend and quality Assurance
+- 🌱 I’m currently learning Html,CSS and Javascript, Gatling, Selenium, C#
+- 💞️ I’m looking to collaborate on selenium projects using C#
+- 📫 You can reach me on linkedIn, https://www.linkedin.com/in/oghenekevwe-deke/
 
 <!---
 mikkygee/mikkygee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
